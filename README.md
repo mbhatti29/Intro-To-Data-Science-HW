@@ -1,2 +1,2 @@
-# Intro-To-Data-Science-HW
+#Data-Science-HW
 Homework assignments 
